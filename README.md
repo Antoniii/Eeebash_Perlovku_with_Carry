@@ -2,7 +2,7 @@
 
 ## Pi-test
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{\pi}{4}=\sum_n \frac{( - 1)^n}{2 \cdot n + 1}">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{\pi}{4}=\sum \frac{( - 1)^n}{2 \cdot n %2B 1}">
 
 
 Python3:
